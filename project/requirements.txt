@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+pymorphy3
+pymorphy3-dicts-ru
+nltk
+gensim
+navec
