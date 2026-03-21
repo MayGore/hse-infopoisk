@@ -1,0 +1,3 @@
+python project/app_cli.py --query "борщ со сметаной" --index bm25 --top-k 5
+python project/app_cli.py --query "куриный суп" --index word2vec --top-k 5
+python project/app_cli.py --query "полезные сладости" --index navec --top-k 10
